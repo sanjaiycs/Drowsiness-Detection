@@ -79,7 +79,11 @@ python mediapipe_drowsiness.py driver_video.mp4 result.mp4
 -   output.mp4 → Processed output video with EAR and drowsiness status
 
 ------------------------------------------------------------------------
+## Sample Output
 
+![image alt](https://github.com/sanjaiycs/Drowsiness-Detection/blob/c0d08e46acb27aad3f7ccf6dc61c34e03f0c675f/output.png)
+
+------------------------------------------------------------------------
 ## How It Works
 
 1.  Reads video frame-by-frame.
